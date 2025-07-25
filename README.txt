@@ -7,11 +7,11 @@ It’s built with using Power BI, PostgreSQL, and a bit of Python magic to clean
 
 - What you’ll find in this project -
 
-✅ Dynamic KPIs – Quickly switch between MTD, QTD, YTD, and YoY Growth with a single dropdown.
-✅ Time Slicers – Filter by year, month, and even by the first order date.
-✅ Helpful Tooltips – Hover over KPIs to understand exactly what they mean.
-✅ Color Highlights – Instantly see positive/negative trends with conditional formatting.
-✅ Interactive Maps and Charts – Spot trends by country, customer, or time at a glance.
+1. Dynamic KPIs – Quickly switch between MTD, QTD, YTD, and YoY Growth with a single dropdown.
+2. Time Slicers – Filter by year, month, and even by the first order date.
+3. Helpful Tooltips – Hover over KPIs to understand exactly what they mean.
+4. Color Highlights – Instantly see positive/negative trends with conditional formatting.
+5. Interactive Maps and Charts – Spot trends by country, customer, or time at a glance.
 
 - Folder Structure -
 
